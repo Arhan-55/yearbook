@@ -609,7 +609,7 @@ const Page4 = () => {
                   <h4 className="font-bold">that day</h4>
                 </div>
                 <ul className="space-y-2 text-xs">
-                  <li className="flex items-start gap-2">• i picked you up from near your house</li>
+                  <li className="flex items-start gap-2">• i picked you up from the alley near your house</li>
                   <li className="flex items-start gap-2">• we played antakshari in the garden</li>
                   <li className="flex items-start gap-2">• we held hands for the first time</li>
                   <li className="flex items-start gap-2">• shared a seat together on that kite ride</li>
