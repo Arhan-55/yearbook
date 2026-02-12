@@ -757,16 +757,16 @@ const Page5 = () => {
                 </p>
                 <div className="mt-4 grid grid-cols-3 gap-3">
                   <div className="bg-[#fff3e2] p-2 rounded-xl text-center">
-                    <span className="text-xl">🧴</span>
-                    <p className="text-[0.65rem] mt-1">bath & body works</p>
+                    <span className="text-xl">⭐</span>
+                    <p className="text-[0.65rem] mt-1">decoration plans</p>
                   </div>
                   <div className="bg-[#fff3e2] p-2 rounded-xl text-center">
-                    <span className="text-xl">📖</span>
-                    <p className="text-[0.65rem] mt-1">journal</p>
+                    <span className="text-xl">🚗</span>
+                    <p className="text-[0.65rem] mt-1">hotwheels</p>
                   </div>
                   <div className="bg-[#fff3e2] p-2 rounded-xl text-center">
-                    <span className="text-xl">🧸</span>
-                    <p className="text-[0.65rem] mt-1">squishmallow</p>
+                    <span className="text-xl">🎐</span>
+                    <p className="text-[0.65rem] mt-1">wind chimes</p>
                   </div>
                 </div>
                 <p className="text-xs mt-4 italic text-[#8b7a69]">
